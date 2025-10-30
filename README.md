@@ -44,7 +44,5 @@ A modern, glassmorphism-styled weather application built with React, TypeScript,
 
 Get a free API key from [WeatherAPI.com](https://www.weatherapi.com/) and add it to your `.env` file.
 
-## Original Design
 
-Based on the Figma design: https://www.figma.com/design/3vB87UtKDr7XbPGLkcPCsK/Futuristic-Weather-App-Design
   
