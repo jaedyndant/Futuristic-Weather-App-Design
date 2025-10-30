@@ -1,5 +1,5 @@
 
-# Futuristic Weather App
+# Weather App
 
 A modern, glassmorphism-styled weather application built with React, TypeScript, and Tailwind CSS. Features real-time weather data, interactive radar, weather alerts, and a beautiful responsive design.
 
