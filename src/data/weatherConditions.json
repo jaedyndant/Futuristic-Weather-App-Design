@@ -1,0 +1,23 @@
+[
+  {"code": 1000, "day": "Sunny", "night": "Clear", "icon": 113},
+  {"code": 1003, "day": "Partly cloudy", "night": "Partly cloudy", "icon": 116},
+  {"code": 1006, "day": "Cloudy", "night": "Cloudy", "icon": 119},
+  {"code": 1009, "day": "Overcast", "night": "Overcast", "icon": 122},
+  {"code": 1030, "day": "Mist", "night": "Mist", "icon": 143},
+  {"code": 1063, "day": "Patchy rain possible", "night": "Patchy rain possible", "icon": 176},
+  {"code": 1066, "day": "Patchy snow possible", "night": "Patchy snow possible", "icon": 179},
+  {"code": 1087, "day": "Thundery outbreaks possible", "night": "Thundery outbreaks possible", "icon": 200},
+  {"code": 1135, "day": "Fog", "night": "Fog", "icon": 248},
+  {"code": 1153, "day": "Light drizzle", "night": "Light drizzle", "icon": 266},
+  {"code": 1180, "day": "Patchy light rain", "night": "Patchy light rain", "icon": 293},
+  {"code": 1183, "day": "Light rain", "night": "Light rain", "icon": 296},
+  {"code": 1189, "day": "Moderate rain", "night": "Moderate rain", "icon": 302},
+  {"code": 1195, "day": "Heavy rain", "night": "Heavy rain", "icon": 308},
+  {"code": 1213, "day": "Light snow", "night": "Light snow", "icon": 326},
+  {"code": 1219, "day": "Moderate snow", "night": "Moderate snow", "icon": 332},
+  {"code": 1225, "day": "Heavy snow", "night": "Heavy snow", "icon": 338},
+  {"code": 1240, "day": "Light rain shower", "night": "Light rain shower", "icon": 353},
+  {"code": 1243, "day": "Moderate or heavy rain shower", "night": "Moderate or heavy rain shower", "icon": 356},
+  {"code": 1273, "day": "Patchy light rain with thunder", "night": "Patchy light rain with thunder", "icon": 386},
+  {"code": 1276, "day": "Moderate or heavy rain with thunder", "night": "Moderate or heavy rain with thunder", "icon": 389}
+]
